@@ -5,3 +5,5 @@ Anyway, I’ll give you the same admin login info: "Admin" "1234." I mean, it wo
 and change their ranks. Normal users can withdraw cash and add money to their accounts. That’s pretty much it. What more do you need?
 
 Let me know if you need anything else!
+
+NOTE: I deleted some sht called MAIN.ipch I hope it doesn't fuck up all the project :D
